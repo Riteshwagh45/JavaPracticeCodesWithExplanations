@@ -62,9 +62,5 @@ public class Employee2 {
             System.out.println(" Id = "+e.id +" name = "+ e.name+" address = "+ e.address);
 
         }
-
-
-
-
     }
 }
