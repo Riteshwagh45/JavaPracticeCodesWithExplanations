@@ -6,7 +6,7 @@ Employee.java:
  */
 
 
-package collection.ArrayList;
+package collection.List.ArrayList;
 
 import java.util.ArrayList;
 import java.util.ListIterator;

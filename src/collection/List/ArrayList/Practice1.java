@@ -8,7 +8,7 @@ Program to display ArrayList and its size:
 
 
 
-package collection.ArrayList;
+package collection.List.ArrayList;
 
 
 import java.util.ArrayList;

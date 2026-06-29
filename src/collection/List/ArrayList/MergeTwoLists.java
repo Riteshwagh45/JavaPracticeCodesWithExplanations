@@ -1,6 +1,5 @@
-package collection.ArrayList;
+package collection.List.ArrayList;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class MergeTwoLists {

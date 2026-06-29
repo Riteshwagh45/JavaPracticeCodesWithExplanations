@@ -1,4 +1,4 @@
-package collection.ArrayList;
+package collection.List.ArrayList;
 
 public class example {
     static void main(String[] args) throws Exception {

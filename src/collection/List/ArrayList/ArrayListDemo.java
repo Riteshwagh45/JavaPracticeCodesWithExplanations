@@ -8,7 +8,7 @@ Remove all elements using clear()
 
 
 
-package collection.ArrayList;
+package collection.List.ArrayList;
 
 import java.util.ArrayList;
 

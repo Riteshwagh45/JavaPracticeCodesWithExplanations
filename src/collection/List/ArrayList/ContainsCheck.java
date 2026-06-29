@@ -4,7 +4,7 @@ the list has	specified element.
  */
 
 
-package collection.ArrayList;
+package collection.List.ArrayList;
 import java.util.ArrayList;
 
 public class ContainsCheck {
